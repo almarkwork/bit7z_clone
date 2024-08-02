@@ -387,3 +387,4 @@ Older versions (v3.x and earlier) of bit7z were released under the [GNU General 
 Copyright &copy; 2014 - 2024 Riccardo Ostani (<a href="https://github.com/rikyoz">@rikyoz</a>)
 </div>
 <br/>
+# bit7z_clone
